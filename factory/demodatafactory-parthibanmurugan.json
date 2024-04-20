@@ -1,0 +1,9 @@
+{
+	"name": "demodatafactory-parthibanmurugan",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2e81a53-d44d-404a-9082-0e8ce0de26f6",
+		"tenantId": "6a87d727-b167-4658-9bba-07adc04a51da"
+	}
+}
